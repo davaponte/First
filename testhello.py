@@ -14,6 +14,8 @@
 
 Ok, esto es una modificación!
 
+Esta modificación nueva sólo irá en la rama experimental.
+
 
 import hello
 import sys
