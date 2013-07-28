@@ -15,6 +15,8 @@
 Ok, esto es una modificación!
 
 
+Acá no aparece nada porque pasé a la rama master
+
 import hello
 import sys
 #from PyQt4 import QtCore, QtGui
