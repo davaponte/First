@@ -14,6 +14,8 @@
 
 Ok, esto es una modificación!
 
+Esta modificación nueva sólo irá en la rama experimental.
+
 
 Acá no aparece nada porque pasé a la rama master
 
