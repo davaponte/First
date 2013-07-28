@@ -12,13 +12,6 @@
 #   pyuic4 -x hello.py -o hello.py
 # para que se use PySide
 
-Ok, esto es una modificación!
-
-Esta modificación nueva sólo irá en la rama experimental.
-
-
-Acá no aparece nada porque pasé a la rama master
-
 import hello
 import sys
 #from PyQt4 import QtCore, QtGui
