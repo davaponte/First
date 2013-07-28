@@ -12,6 +12,9 @@
 #   pyuic4 -x hello.py -o hello.py
 # para que se use PySide
 
+Ok, esto es una modificación!
+
+
 import hello
 import sys
 #from PyQt4 import QtCore, QtGui
